@@ -1,0 +1,15 @@
+{
+  "name": "phaser-template",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "browserify": "latest",
+    "electron": "^1.7.5",
+    "exorcist": "latest",
+    "express": "latest",
+    "gulp": "latest",
+    "mold-source-map": "latest",
+    "tsify": "latest",
+    "typescript": "latest"
+  }
+}
